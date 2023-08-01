@@ -1,4 +1,4 @@
-# CashFlow_Manager
+# Beat Buddy
 Music Player Project (Tech Stack: HTML, CSS, JavaScript):
 
 Designed and developed a fully functional and responsive music player from scratch using HTML, CSS, and JavaScript. 
